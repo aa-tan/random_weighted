@@ -1,46 +1,9 @@
 # Random Weighted Choice
-An example of how to implement a random generator with weighted distribution.
+An example of how to implement a random choice with weighted distribution. Demonstrated in multiple languages.
 
-## Build
-Clone the repo.
-```console
-$ git clone https://github.com/aa-tan/random_weighted
-```
-Enter the directory.
-```console
-$ cd random_weighted
-```
-Make.
-```console
-$ make
-```
+# Contribution
+Check the issues list for a list of languages currently available. Comment that you've chosen that language to port. Please choose only one language to leave room for others wanting to contribute. Feel free to add an issue using the template for any non-listed language.
 
-## Run
-```
-$ ./weights
-```
+Implement random weighted choice with your chosen language. You can use any example choices or weights you'd like. Make sure the example tests the implementation at least 100 times and outputs the results. Check out the c++ implementation for an example.
 
-## Notes
-
-This program gives a weight for 4 different ice cream flavors.
-
-|Flavor|Weight|
-|:----:|:----:|
-|Vanilla|15|
-|Strawberry|25|
-|Chocolate|55|
-|Cookies and Cream|5|
-|Sum| 100
-
-Based on the weights, a random flavor is chosen. The process is repeated 100 times by default to demonstrate the weighted distribution. This can be changed by modifying the LIMIT defined at the top of the code. The final output is how many times each flavor was chosen. It will be found that the results closely resemble the distribution of the weights provided.
-
-### Example Output
-
-|Flavor| # of times chosen|
-|:-:|:-:|
-|Vanilla|15|
-|Strawberry|26|
-|Chocolate|53|
-|Cookies and Cream|6|
-
-Comments can be found in the sourcecode that explain the process.
+Send a PR request!
