@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{70C69B5A-BB8F-4CB5-B9FC-1AF08D5F946E}|Default">
+  <MonoDevelop.Ide.ItemProperties.Random__weighted PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Random_weighted/Program.cs">
+    <Files>
+      <File FileName="Random_weighted/Program.cs" Line="47" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Random_weighted" expanded="True">
+            <Node name="Random_weighted" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

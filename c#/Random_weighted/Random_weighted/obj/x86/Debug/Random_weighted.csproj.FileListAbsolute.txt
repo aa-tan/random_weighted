@@ -1,0 +1,9 @@
+/home/nathan/Documents/C#/Random_weighted/Random_weighted/Random_weighted/bin/Debug/Random_weighted.exe
+/home/nathan/Documents/C#/Random_weighted/Random_weighted/Random_weighted/bin/Debug/Random_weighted.pdb
+/home/nathan/Documents/C#/Random_weighted/Random_weighted/Random_weighted/obj/x86/Debug/Random_weighted.exe
+/home/nathan/Documents/C#/Random_weighted/Random_weighted/Random_weighted/obj/x86/Debug/Random_weighted.pdb
+/home/nathan/Documents/Repos/random_weighted/c#/Random_weighted/Random_weighted/bin/Debug/Random_weighted.exe
+/home/nathan/Documents/Repos/random_weighted/c#/Random_weighted/Random_weighted/bin/Debug/Random_weighted.pdb
+/home/nathan/Documents/Repos/random_weighted/c#/Random_weighted/Random_weighted/obj/x86/Debug/Random_weighted.csprojAssemblyReference.cache
+/home/nathan/Documents/Repos/random_weighted/c#/Random_weighted/Random_weighted/obj/x86/Debug/Random_weighted.exe
+/home/nathan/Documents/Repos/random_weighted/c#/Random_weighted/Random_weighted/obj/x86/Debug/Random_weighted.pdb
